@@ -1,6 +1,6 @@
 # E-Comerce-Backend
 
-# <img src="https://www.qindel.com/wp-content/uploads/2023/04/spring-boot.jpeg" width="80" height="80"> Spring Framework [![Build Status](https://ci.spring.io/api/v1/teams/spring-framework/pipelines/spring-framework-6.2.x/jobs/build/badge)](https://ci.spring.io/teams/spring-framework/pipelines/spring-framework-6.1.x?groups=Build") [![Revved up by Develocity](https://img.shields.io/badge/Revved%20up%20by-Develocity-06A0CE?logo=Gradle&labelColor=02303A)](https://ge.spring.io/scans?search.rootProjectNames=spring)
+# <img src="https://www.qindel.com/wp-content/uploads/2023/04/spring-boot.jpeg" width="80" height="80"> Spring Boot 3.2.2 [![Build Status](https://ci.spring.io/api/v1/teams/spring-framework/pipelines/spring-framework-6.2.x/jobs/build/badge)](https://ci.spring.io/teams/spring-framework/pipelines/spring-framework-6.1.x?groups=Build") [![Revved up by Develocity](https://img.shields.io/badge/Revved%20up%20by-Develocity-06A0CE?logo=Gradle&labelColor=02303A)](https://ge.spring.io/scans?search.rootProjectNames=spring)
 
 Este es un proyecto es un API elaborado con spring boot, que simula el funcionamiento basico de un E-Comerce.
 La API se encuentra documentada con swagger.
@@ -9,7 +9,7 @@ Autenticacion con JWT.
 ## Tecnologías Utilizadas
 
 #### JAVA
-#### Spring Boot
+#### Spring Boot 3.2.2
 #### Postgrest
 #### JWT
 #### Swagger
